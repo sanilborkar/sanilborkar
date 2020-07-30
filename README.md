@@ -15,12 +15,12 @@ Hi there :wave: ! I am Sanil, a Software Engineer :computer: by profession.
 
 # Languages
 
-<a href="https://golang.org/" target="_blank"><img height="50" src="./assets/golang-ar21.svg"></a>
-<a href="https://java.com" target="_blank"><img height="50" src="./assets/java-ar21.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"><img height="50" src="./assets/javascript-ar21.svg"></a>
-<a href="http://www.lua.org" target="_blank"><img height="50" src="./assets/lua-ar21.svg"></a>
-<a href="https://python.org" target="_blank"><img height="50" src="./assets/python-ar21.svg"></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img height="50" src="./assets/scala-lang-ar21.svg"></a>
+<a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a>
+<a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
+<a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
+<a href="http://www.lua.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a>
+<a href="https://python.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
+<a href="https://www.scala-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a>
 
 [![Sanil's github stats](https://github-readme-stats.vercel.app/api?username=sanilborkar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sanilborkar/github-readme-stats)
 
