@@ -63,4 +63,6 @@ He/Him/Il :man:
 
 [![Sanil's github stats](https://github-readme-stats.vercel.app/api?username=sanilborkar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sanilborkar/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanilborkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanilborkar)
