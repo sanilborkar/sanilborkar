@@ -14,7 +14,7 @@ Hi there :wave: ! I am Sanil, a Software Engineer :computer: by profession.
 
 ## 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-sanilborkar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanilborkar/)](https://www.linkedin.com/in/sanilborkar/) [![Medium Badge](https://img.shields.io/badge/-@sanilborkar-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanilborkar)](https://medium.com/@sanilborkar) [![Twitter Badge](https://img.shields.io/badge/-@sanilborkar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theinfoparadox)](https://twitter.com/sanilborkar) [![Instagram Badge](https://img.shields.io/badge/-@sanilborkar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanilborkar/)](https://instagram.com/sanilborkar)
+[![Linkedin Badge](https://img.shields.io/badge/-sanilborkar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanilborkar/)](https://www.linkedin.com/in/sanilborkar/) [![Medium Badge](https://img.shields.io/badge/-@sanilborkar-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanilborkar)](https://medium.com/@sanilborkar) [![Twitter Badge](https://img.shields.io/badge/-@theinfoparadox-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theinfoparadox)](https://twitter.com/theinfoparadox) [![Instagram Badge](https://img.shields.io/badge/-@sanilborkar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanilborkar/)](https://instagram.com/sanilborkar)
 
 ## 😄 Pronouns
 
