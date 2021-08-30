@@ -68,8 +68,14 @@ He/Him/Il :man:
 
 # GitHub Stats
 
-[![Sanil's github stats](https://github-readme-stats.vercel.app/api?username=sanilborkar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sanilborkar/github-readme-stats)
+<a href="https://github.com/sanilborkar">
+	<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sanilborkar&count_private=true&show_icons=true&theme=nord" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanilborkar&layout=compact)]()
+<a href="https://github.com/sanilborkar">
+	<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanilborkar&layout=compact&theme=nord" />
+</a>
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sanilborkar)]()
+<a href="https://github.com/sanilborkar">
+	<img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=sanilborkar&theme=nord" />
+</a>
