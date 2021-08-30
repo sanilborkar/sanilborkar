@@ -12,57 +12,64 @@ Hi there :wave: ! I am Sanil, a Software Engineer :computer: by profession.
 
 <!-- ## 💬 Ask me about -->
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanilborkar)
+
 ## 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-sanilborkar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanilborkar/)](https://www.linkedin.com/in/sanilborkar/) [![Medium Badge](https://img.shields.io/badge/-@sanilborkar-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sanilborkar)](https://medium.com/@sanilborkar) [![Twitter Badge](https://img.shields.io/badge/-@theinfoparadox-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theinfoparadox)](https://twitter.com/theinfoparadox) [![Instagram Badge](https://img.shields.io/badge/-@sanilborkar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sanilborkar/)](https://instagram.com/sanilborkar)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanilborkar/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanilborkar)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theinfoparadox)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanilborkar)
 
 ## 😄 Pronouns
 
 He/Him/Il :man:
 
-<!-- ## ⚡ Fun fact -->
+# 📝 Languages
 
-# Languages
-
-<a href="https://golang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a>
-<a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
-<a href="http://www.lua.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a>
-<a href="https://python.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-<a href="https://www.scala-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a>
-
-# Frameworks
-
-<a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
-<a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a>
-<a href="https://jquery.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a>
-<a href="https://spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a>
-
-# Tools
-
-<a href="https://developer.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
-<a href="https://aws.amazon.com/lambda/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
-<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
-<a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
-<a href="https://gradle.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></a>
-<a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-<a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
-<a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a>
-<a href="https://www.vim.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a>
-<a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
+[![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://soliditylang.org)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](http://www.lua.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
 
+# 🗄 Frameworks
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/1.1.x/)
+
+# 🛠 Tools
+
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
+[![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
+[![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
+[![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
+# 💻 OS
+
+[![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 
 # GitHub Stats
 
 [![Sanil's github stats](https://github-readme-stats.vercel.app/api?username=sanilborkar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sanilborkar/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanilborkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanilborkar&layout=compact)]()
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanilborkar)
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sanilborkar)]()
