@@ -1,16 +1,6 @@
-# Sanil Sinai Borkar - @sanilborkar
+# Sanil Sinai Borkar
 
 Hi there :wave: ! I am Sanil, a Software Engineer :computer: by profession.
-
-<!-- ## 🔭 I’m currently working on -->
-
-<!-- ## 🌱 I’m currently learning ... -->
-
-<!-- ## 👯 I’m looking to collaborate on ... -->
-
-<!-- ## 🤔 I’m looking for help with -->
-
-<!-- ## 💬 Ask me about -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanilborkar)
 
@@ -24,6 +14,12 @@ Hi there :wave: ! I am Sanil, a Software Engineer :computer: by profession.
 ## 😄 Pronouns
 
 He/Him/Il :man:
+
+## 🌱 Currently Learning
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 
 # 📝 Languages
 
@@ -39,8 +35,8 @@ He/Him/Il :man:
 
 # 🗄 Frameworks
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+<!-- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org) -->
+<!-- [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) -->
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
 [![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
